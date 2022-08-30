@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\revas\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\revas\\.nuget\\packages"
+    ]
+  }
+}
